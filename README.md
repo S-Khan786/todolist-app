@@ -23,11 +23,6 @@
       <li>To modify a task, you are able to modify in todo-list</li>
       <li>To delete a task, simply click simply click delete</li>
   </ol>
-  
-  <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1oywEy-t8sUxsy9yh03KmH5AoelMjUHn0/view?usp=share_link" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
 
   <h2>Contributing</h2>
   <p>
