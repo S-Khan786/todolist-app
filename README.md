@@ -23,7 +23,9 @@
       <li>To modify a task, you are able to modify in todo-list</li>
       <li>To delete a task, simply click simply click delete</li>
   </ol>
-
+  
+  <a href="https://drive.google.com/file/d/1oywEy-t8sUxsy9yh03KmH5AoelMjUHn0/view?usp=share_link">Click here to watch the video</a>
+  
   <h2>Contributing</h2>
   <p>
     Contributions are always welcome! If you find any bugs or issues, please submit a GitHub issue. If you would like to contribute code, please fork the repository and submit a pull request.
